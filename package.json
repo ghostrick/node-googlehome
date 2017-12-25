@@ -8,6 +8,7 @@
   "dependencies": {
     "castv2-client": "^1.2.0",
     "google-tts-api": "^0.0.2",
-    "mdns": "^2.3.4"
+    "mdns": "^2.3.4",
+    "mime-types": "^2.1.17"
   }
 }

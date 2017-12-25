@@ -1,4 +1,4 @@
 const GoogleHome = require('./index')
 
 let device = new GoogleHome.Connecter('192.168.11.13')
-device.playMp3('http://www.hypertrombones.jp/sample/system7.mp3').then(console.log).catch(console.log)
+device.playMedia('http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4').then(console.log).catch(console.log)
