@@ -1,0 +1,11 @@
+{
+  "name": "node-googlehome",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ghostrick/node-googlehome",
+  "author": "_Ghostrick_ <ghostrick.kinako@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mdns": "^2.3.4"
+  }
+}
