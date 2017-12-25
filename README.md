@@ -37,6 +37,14 @@ let device = new GoogleHome.Connecter('192.168.11.13')
  */
 device.config({lang: 'ja'})
 
+
+/**
+ * Start speaker.
+ * If you do this, google home will immediately sound when you call speak() or playMedia()
+ */
+device.readySpeaker()
+  .then(() => { /* do something */ })
+
 /**
  * play media. pass media url.
  * @param {url: string}
