@@ -2,6 +2,7 @@
 It uses Node.js to communicate with Google Home.  
   
 [![npm version](https://badge.fury.io/js/node-googlehome.svg)](https://badge.fury.io/js/node-googlehome)
+[![Build Status](https://travis-ci.org/Ghostrick/node-googlehome.svg?branch=master)](https://travis-ci.org/Ghostrick/node-googlehome)
 
 ## Install
 ### npm
