@@ -1,3 +1,4 @@
-const search = require('./lib/search')
+const search = require('./lib/search'),
+    Connecter = require('./lib/connect')
 
-module.exports = {search: search}
+module.exports = { search,  Connecter }

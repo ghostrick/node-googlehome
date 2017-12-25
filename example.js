@@ -1,4 +1,4 @@
-const googlehome = require('./index')
+const GoogleHome = require('./index')
 
-googlehome.search(1000)
-    .then(resp => console.log(resp))
+let device = new GoogleHome.Connecter('192.168.11.13')
+device.speak('Hello').then(console.log)

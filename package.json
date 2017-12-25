@@ -6,6 +6,8 @@
   "author": "_Ghostrick_ <ghostrick.kinako@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "castv2-client": "^1.2.0",
+    "google-tts-api": "^0.0.2",
     "mdns": "^2.3.4"
   }
 }
