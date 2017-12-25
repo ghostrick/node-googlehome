@@ -8,7 +8,7 @@
   "dependencies": {
     "castv2-client": "^1.2.0",
     "google-tts-api": "^0.0.2",
-    "mdns": "^2.3.4",
+    "mdns": "https://github.com/agnat/node_mdns/tarball/master",
     "mime-types": "^2.1.17"
   }
 }

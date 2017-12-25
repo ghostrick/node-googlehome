@@ -1,5 +1,7 @@
 # node-googlehome
-It uses Node.js to communicate with Google Home.
+It uses Node.js to communicate with Google Home.  
+  
+[![npm version](https://badge.fury.io/js/node-googlehome.svg)](https://badge.fury.io/js/node-googlehome)
 
 ## Install
 ### npm
