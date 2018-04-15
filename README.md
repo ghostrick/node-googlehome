@@ -16,7 +16,7 @@ $ yarn add node-googlehome
 
 ## Usage
 ```js
-const GoogleHome = reuqire('node-googlehome')
+const GoogleHome = require('node-googlehome')
 
 /**
  * search google home.
