@@ -1,6 +1,6 @@
 {
   "name": "node-googlehome",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "index.js",
   "repository": "https://github.com/Ghostrick/node-googlehome",
   "author": "_Ghostrick_ <ghostrick.kinako@gmail.com>",
