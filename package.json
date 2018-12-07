@@ -7,8 +7,8 @@
   "license": "MIT",
   "dependencies": {
     "castv2-client": "^1.2.0",
-    "google-tts-api": "^0.0.3",
-    "mdns": "https://github.com/agnat/node_mdns/tarball/master",
-    "mime-types": "^2.1.17"
+    "google-tts-api": "^0.0.4",
+    "mdns": "^2.4.0",
+    "mime-types": "^2.1.21"
   }
 }
